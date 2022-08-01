@@ -82,7 +82,7 @@
   "readme": "ERROR: No README data found!",
   "_id": "learnstorybook-design-system-template@0.1.0",
   "main": "dist/index.js",
-  "repository": "https://github.com/chocochoi/learnstorybook-design-system.git",
+  "repository": "git@github.com:chocochoi/learnstorybook-design-system.git",
   "author": "cy.choi <cy.choi@deali.net>",
   "license": "MIT",
   "description": "Storybook design systems tutorial"
